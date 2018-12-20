@@ -1,0 +1,8 @@
+.settings/
+.cproject
+.project
+sensor JLink Debug（1）.launch 
+sensor JLink Debug.launch
+sensor JLink Release（1）.launch 
+sensor JLink Release.launch
+script.jlink
